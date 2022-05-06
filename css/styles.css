@@ -883,6 +883,10 @@ img, a {
 }
 
 .modal-button {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 188%;
+    letter-spacing: 0.06em;
     width: 200px;
     height: 50px;
     background: var(--accent-color);
